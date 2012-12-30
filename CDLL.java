@@ -1,7 +1,5 @@
 package uk.ac.cam.jdb75.CDLL;
 
-import java.util.LinkedList;
-
 public class CDLL<T> {
     // Not a real head and tail, only helpers for internal methods
     private ListNode<T> head;
